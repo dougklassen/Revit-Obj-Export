@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\ProgramData\AutoDesk\Revit\AddIns\2016\ObjExporter\ObjExporter.dll"</Assembly>
+    <AddInId>8f9ca092-3997-4c78-8c16-b97f10c5b4c6</AddInId>
+    <FullClassName>DougKlassen.Revit.ObjExporter.Commands.Export</FullClassName>
+    <Text>Export to .OBJ</Text>
+    <VendorId>TSRA</VendorId>
+    <VendorDescription>Doug Klassen</VendorDescription>
+  </AddIn>
+</RevitAddIns>
