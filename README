@@ -2,3 +2,4 @@ This is an add-in wrapper for the Revit to .obj exporter written by Clive Broadh
 The library is not distributed with this repository.
 To obtain the required *RevitOBJExport.DLL*, visit [Inglegreen.com](http://inglegreen.com/revit_app.html). 
 
+Note: I have archived this repository since the .obj exporter isn't available anymore
